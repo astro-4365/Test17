@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F482BD03-E8D4-BB64-6851-76D427BD3852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThunkMonkey.FluidMidi.Runtime", "ThunkMonkey.FluidMidi.Runtime.csproj", "{538CF0A6-DE99-D5C1-FC2F-13F8644CE314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThunkMonkey.FluidMidi.Editor", "ThunkMonkey.FluidMidi.Editor.csproj", "{FEF85AB9-FBC8-6892-91E5-A71C7545C60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F482BD03-E8D4-BB64-6851-76D427BD3852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F482BD03-E8D4-BB64-6851-76D427BD3852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F482BD03-E8D4-BB64-6851-76D427BD3852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F482BD03-E8D4-BB64-6851-76D427BD3852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538CF0A6-DE99-D5C1-FC2F-13F8644CE314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538CF0A6-DE99-D5C1-FC2F-13F8644CE314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538CF0A6-DE99-D5C1-FC2F-13F8644CE314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538CF0A6-DE99-D5C1-FC2F-13F8644CE314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF85AB9-FBC8-6892-91E5-A71C7545C60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF85AB9-FBC8-6892-91E5-A71C7545C60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF85AB9-FBC8-6892-91E5-A71C7545C60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF85AB9-FBC8-6892-91E5-A71C7545C60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

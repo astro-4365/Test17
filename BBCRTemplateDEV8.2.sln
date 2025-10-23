@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A84447D0-E147-1B7F-E33B-64C9D75F9619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThunkMonkey.FluidMidi.Runtime", "ThunkMonkey.FluidMidi.Runtime.csproj", "{61E13BC8-0ACB-11E5-8DA0-95BD0FC4380A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThunkMonkey.FluidMidi.Editor", "ThunkMonkey.FluidMidi.Editor.csproj", "{3083A597-0AC1-2398-7F56-A133760C9117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84447D0-E147-1B7F-E33B-64C9D75F9619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84447D0-E147-1B7F-E33B-64C9D75F9619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84447D0-E147-1B7F-E33B-64C9D75F9619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84447D0-E147-1B7F-E33B-64C9D75F9619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E13BC8-0ACB-11E5-8DA0-95BD0FC4380A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E13BC8-0ACB-11E5-8DA0-95BD0FC4380A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E13BC8-0ACB-11E5-8DA0-95BD0FC4380A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E13BC8-0ACB-11E5-8DA0-95BD0FC4380A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3083A597-0AC1-2398-7F56-A133760C9117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3083A597-0AC1-2398-7F56-A133760C9117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3083A597-0AC1-2398-7F56-A133760C9117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3083A597-0AC1-2398-7F56-A133760C9117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
